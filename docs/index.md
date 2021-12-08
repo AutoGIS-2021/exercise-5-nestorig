@@ -1,12 +1,11 @@
-# Entrance page
+# Maps for exercise 5
 
-Here you can find links to the maps I produced in exercise 5.
+Here you can find links to the maps I produced in exercise 5 and some information about them.
 
-```
 
 ## My maps
 
-### 1.Static map
+### 1. Static map
 Number of buildings in postal code areas of Helsinki. 
 Main roads and sea as background elements.
 
