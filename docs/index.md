@@ -1,24 +1,43 @@
 # Entrance page
 
-To this page you should add links to your interactive html-maps that are located under your Exercise-5 repository like the following (*modify the username part* + *notice that **e**xercise starts with lower e -letter *):
-
- `https://autogis-2021.github.io/exercise-5-YourUserName/filename.html`
-
-Here is an example how to do it in MarkDown for user haavardaagesen:
+Here you can find links to the maps I produced in exercise 5.
 
 ```
-[Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
-```
-## Publishing the maps 
 
-In order to access the files via the links, you need to set the repository as public and adjust the GitHub pages settins
 ## My maps
 
-Edit the text below and add links to the maps that you have created:
+### 1.Static map
+Number of buildings in postal code areas of Helsinki. 
+Main roads and sea as background elements.
 
- - [My static map]()
- - [My interactive map]()
- 
- You can check syntax for formatting the links in here: 
- - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
+[My static map](https://autogis-2021.github.io/exercise-5-nestorig/static_map.png)
+
+Data is derived from City of Helsinki WFS-service.
+Source and information about the data (in Finnish): https://www.hel.fi/helsinki/fi/kartat-ja-liikenne/kartat-ja-paikkatieto/Paikkatiedot+ja+-aineistot/avoimet+paikkatiedot/
+Data (WFS layers) used to create the final map:
+    Postal Code areas (Postinumeroalue)
+    Buildings as points (Rakennukset_piste_rekisteritiedot)
+    Main roads (Seutukartta_liikenne_paatiet)
+    Sea area (Seutukartta_maankaytto_merialue)
+
+** **
+
+### 2. Interactive map
+Total daily traffic volumes in some street sections in Helsinki in 2019.
+Main roads, street network and sea as background elements.
+
+[My interactive map](https://autogis-2021.github.io/exercise-5-nestorig/interactive_map.html)
+
+Traffic volumes data: Daily average of total motor vehicle flow in some street parts in Helsinki in 2019.
+Source: Traffic volumes in CSV. https://hri.fi/data/en_GB/dataset/liikennemaarat-helsingissa Traffic data from Helsinki. The maintainer of the dataset is Helsingin kaupunkiympäristön toimiala / Liikenne- ja katusuunnittelu. The dataset has been downloaded from Helsinki Region Infoshare service on 02.12.2021 under the license Creative Commons Attribution 4.0.
+
+Street network data and Sea area data
+Data is derived from City of Helsinki WFS-service.
+Source and information about the data (in Finnish): https://www.hel.fi/helsinki/fi/kartat-ja-liikenne/kartat-ja-paikkatieto/Paikkatiedot+ja+-aineistot/avoimet+paikkatiedot/
+Data used to create the map:
+    Main roads (Seutukartta_liikenne_paatiet)
+    Road network (Seutukartta_liikenne_tiesto)
+    Sea area (Seutukartta_maankaytto_merialue)
+
+
 
