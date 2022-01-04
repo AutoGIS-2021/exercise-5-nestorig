@@ -72,7 +72,19 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choices. Check out [this blog post for further hints on creating good maps](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
   
-  
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- Justus Poutanen
+### Problem scores
+- Problem 1: 8.0 / 8.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: 2.0 / 2.0
+### Comments 
+- Nice and interesting static map! Good choice of colors.
+- Your interactive map is cool. Sometimes there are to circles in the same place though? Maybe has to do with your input data...
+- The starting point of the map is also a bit weird (off-center)
+- And the way you put the info marker is unusual as well. In here: https://stackoverflow.com/questions/65104927/add-text-to-folium-map-using-an-absolute-position there is a way of posting text directly on to the map
+- But all in all, fantastic maps and GREAT DOCUMENTATION!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   
   
   
